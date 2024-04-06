@@ -1,0 +1,28 @@
+/* footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+} */
+
+/* footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+} */
+footer {
+    bottom: 0;
+}
+/* main {
+    min-height: 890px
+} */
+
+/* footer div.container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+  } */
+  
