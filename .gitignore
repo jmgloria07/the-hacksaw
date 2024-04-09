@@ -30,3 +30,6 @@ dist-ssr
 stats.html
 
 .eslintcache
+
+# Firebase
+.firebase/
